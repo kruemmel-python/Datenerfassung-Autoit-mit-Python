@@ -1,0 +1,8 @@
+Vorname: Leon
+Nachname: Becker
+Geburtsdatum: 08.08.1997
+Geburtsort: Leipzig
+Straße: Nebenstraße
+Hausnummer: 8
+PLZ: 04109
+Ort: Leipzig

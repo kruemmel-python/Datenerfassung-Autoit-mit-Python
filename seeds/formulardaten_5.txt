@@ -1,0 +1,8 @@
+Vorname: Sophia
+Nachname: Fischer
+Geburtsdatum: 05.05.1994
+Geburtsort: Frankfurt
+Straße: Ringstraße
+Hausnummer: 5
+PLZ: 60311
+Ort: Frankfurt

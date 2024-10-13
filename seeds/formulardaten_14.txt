@@ -1,0 +1,8 @@
+Vorname: Paul
+Nachname: Maier
+Geburtsdatum: 14.02.1993
+Geburtsort: Stuttgart
+Straße: Brückenweg
+Hausnummer: 14
+PLZ: 70174
+Ort: Stuttgart

@@ -1,0 +1,8 @@
+Vorname: Max
+Nachname: Mustermann
+Geburtsdatum: 01.01.1990
+Geburtsort: Berlin
+Straße: Musterstraße
+Hausnummer: 1
+PLZ: 10115
+Ort: Berlin

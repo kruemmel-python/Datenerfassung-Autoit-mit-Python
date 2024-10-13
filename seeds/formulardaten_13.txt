@@ -1,0 +1,8 @@
+Vorname: Clara
+Nachname: Schulz
+Geburtsdatum: 13.01.1992
+Geburtsort: Nürnberg
+Straße: Marktstraße
+Hausnummer: 13
+PLZ: 90402
+Ort: Nürnberg

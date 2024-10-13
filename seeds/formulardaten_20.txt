@@ -1,0 +1,8 @@
+Vorname: Jan
+Nachname: Keller
+Geburtsdatum: 20.08.1999
+Geburtsort: Hamburg
+Straße: Parkstraße
+Hausnummer: 20
+PLZ: 20097
+Ort: Hamburg

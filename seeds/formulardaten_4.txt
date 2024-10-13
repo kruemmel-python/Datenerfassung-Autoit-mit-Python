@@ -1,0 +1,8 @@
+Vorname: Karl
+Nachname: Schneider
+Geburtsdatum: 04.04.1993
+Geburtsort: Köln
+Straße: Beispielallee
+Hausnummer: 4
+PLZ: 50667
+Ort: Köln

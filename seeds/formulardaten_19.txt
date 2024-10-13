@@ -1,0 +1,8 @@
+Vorname: Sarah
+Nachname: Berg
+Geburtsdatum: 19.07.1998
+Geburtsort: Frankfurt
+Straße: Ringallee
+Hausnummer: 19
+PLZ: 60329
+Ort: Frankfurt

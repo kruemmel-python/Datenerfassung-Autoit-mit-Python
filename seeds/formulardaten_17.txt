@@ -1,0 +1,8 @@
+Vorname: Lina
+Nachname: Schmid
+Geburtsdatum: 17.05.1996
+Geburtsort: Berlin
+Straße: Turmstraße
+Hausnummer: 17
+PLZ: 10559
+Ort: Berlin

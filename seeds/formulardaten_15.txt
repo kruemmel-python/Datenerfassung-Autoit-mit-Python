@@ -1,0 +1,8 @@
+Vorname: Emilia
+Nachname: Krause
+Geburtsdatum: 15.03.1994
+Geburtsort: Düsseldorf
+Straße: Hafenstraße
+Hausnummer: 15
+PLZ: 40221
+Ort: Düsseldorf

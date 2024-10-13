@@ -1,0 +1,8 @@
+Vorname: Anna
+Nachname: Schmidt
+Geburtsdatum: 02.02.1991
+Geburtsort: Hamburg
+Straße: Beispielweg
+Hausnummer: 2
+PLZ: 20095
+Ort: Hamburg

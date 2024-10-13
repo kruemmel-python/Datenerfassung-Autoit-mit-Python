@@ -1,0 +1,8 @@
+Vorname: Julia
+Nachname: Hoffmann
+Geburtsdatum: 09.09.1998
+Geburtsort: Dortmund
+Straße: Alleeweg
+Hausnummer: 9
+PLZ: 44135
+Ort: Dortmund

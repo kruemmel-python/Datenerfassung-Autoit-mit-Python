@@ -1,0 +1,8 @@
+Vorname: David
+Nachname: Koch
+Geburtsdatum: 10.10.1999
+Geburtsort: Essen
+Straße: Gartenstraße
+Hausnummer: 10
+PLZ: 45127
+Ort: Essen

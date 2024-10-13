@@ -1,0 +1,8 @@
+Vorname: Nina
+Nachname: Bauer
+Geburtsdatum: 11.11.1990
+Geburtsort: Bremen
+Straße: Schulstraße
+Hausnummer: 11
+PLZ: 28195
+Ort: Bremen

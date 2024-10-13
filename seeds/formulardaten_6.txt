@@ -1,0 +1,8 @@
+Vorname: Lukas
+Nachname: Weber
+Geburtsdatum: 06.06.1995
+Geburtsort: Stuttgart
+Straße: Brunnenweg
+Hausnummer: 6
+PLZ: 70173
+Ort: Stuttgart

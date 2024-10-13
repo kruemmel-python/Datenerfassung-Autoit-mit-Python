@@ -1,0 +1,8 @@
+Vorname: Jonas
+Nachname: Richter
+Geburtsdatum: 12.12.1991
+Geburtsort: Dresden
+Straße: Am Platz
+Hausnummer: 12
+PLZ: 01067
+Ort: Dresden

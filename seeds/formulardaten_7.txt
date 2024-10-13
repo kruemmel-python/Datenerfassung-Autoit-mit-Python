@@ -1,0 +1,8 @@
+Vorname: Marie
+Nachname: Wagner
+Geburtsdatum: 07.07.1996
+Geburtsort: Düsseldorf
+Straße: Hauptstraße
+Hausnummer: 7
+PLZ: 40213
+Ort: Düsseldorf

@@ -1,0 +1,8 @@
+Vorname: Tom
+Nachname: Mayer
+Geburtsdatum: 18.06.1997
+Geburtsort: München
+Straße: Seeweg
+Hausnummer: 18
+PLZ: 80335
+Ort: München
