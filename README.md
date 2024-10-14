@@ -1,4 +1,5 @@
 # Automatisierte Datenerfassung ohne direkte Schnittstelle
+# Robotic Process Automation (RPA)
 
 ![image](https://github.com/user-attachments/assets/145d5144-65ae-4f76-a969-6a8af60d191f)
 
